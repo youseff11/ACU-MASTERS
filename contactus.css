@@ -1,0 +1,11 @@
+.header .navbar .navbar-nav .contact{
+    color:rgb(235, 184, 184) !important;
+}
+.hero-box-s .fa-facebook,.fa-instagram,.fa-whatsapp {
+    font-size: 2.5rem; 
+    margin: 0 0.5rem; 
+    color: #333; 
+}
+.hero-box-s i:hover {
+    color: #007bff; /* Color change on hover */
+}
