@@ -1,0 +1,30 @@
+.grid-box-img{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grid-box h1,h3{
+    text-align: center;}
+.header .navbar .navbar-nav .aboutus {
+    color:rgb(235, 184, 184) !important;
+}
+.grid-box{
+    padding: 2rem;
+    display: grid;
+    height: auto;
+    position: relative;
+    
+
+}
+.heroo-section{
+    position: relative;
+    width: 100%;
+    background: linear-gradient(to right, rgb(233, 188, 154), rgb(255, 245, 230));
+}
+.foooter-box{
+    position: absolute;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(165, 63, 63);
+
+}
