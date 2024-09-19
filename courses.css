@@ -1,0 +1,13 @@
+.Services{
+    color:rgb(235, 184, 184) !important;
+}
+.card{
+    border-radius: 15px;
+}
+.row{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.heroo-section{
+    background: linear-gradient(to right, rgb(233, 188, 154), rgb(255, 245, 230));
+}
